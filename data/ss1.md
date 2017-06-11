@@ -1,4 +1,4 @@
-#### ** **以下節點由gtemp分享** *
+#### ** **以下節點由gtemp分享** **
 #### IP : 107.175.95.241
 #### port : 2625
 #### password : dongtaiwang.com
